@@ -25,7 +25,3 @@ This project is a collection of C++ implementations and coding exercises designe
 - C++
 - Visual Studio Code
 - Git and GitHub
-
-## License
-
-This repository is for educational use and study purposes.
