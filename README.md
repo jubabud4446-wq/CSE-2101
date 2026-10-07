@@ -15,9 +15,6 @@ The repository is organized by the topics covered in the course.
 - Sorting and Searching
 - Other Data Structure Topics
 
-## Repository Structure
-
-- `L2_Array_Records_and_Pointers/` - exercises and implementations related to arrays, records, pointers, and sorting techniques.
 
 ## About This Repository
 
